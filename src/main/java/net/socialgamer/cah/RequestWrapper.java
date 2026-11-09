@@ -70,17 +70,13 @@ public class RequestWrapper {
   }
 
   /**
-   * If there is an {@code X-Forwarded-For} header, the <strong>first</strong> entry in that list
-   * is returned instead.
+   * The client address as resolved by the servlet container. The first entry of
+   * {@code X-Forwarded-For} is written by the client and must never be trusted (it would let anyone
+   * claim an admin address): behind a reverse proxy, let the container resolve the real address
+   * (Tomcat's {@code RemoteIpValve}, Jetty's {@code ForwardedRequestCustomizer}).
    * @see HttpServletRequest#getRemoteAddr()
    */
   public String getRemoteAddr() {
-    String addr = request.getHeader("X-Forwarded-For");
-    if (null != addr) {
-      addr = addr.split(",")[0].trim();
-    } else {
-      addr = request.getRemoteAddr();
-    }
-    return addr;
+    return request.getRemoteAddr();
   }
 }

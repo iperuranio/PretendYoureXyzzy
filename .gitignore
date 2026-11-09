@@ -3,3 +3,10 @@ build.properties
 target
 ssl/
 src/main/java/net/socialgamer/cah/util/RealShadowBannedStringProvider.java
+.idea/
+.env
+.env.*
+!.env.example
+data/
+secrets/
+!docker/build.properties
