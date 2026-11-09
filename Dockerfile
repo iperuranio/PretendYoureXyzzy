@@ -24,7 +24,7 @@ RUN apt-get update \
  && apt-get install -y --no-install-recommends curl \
  && rm -rf /var/lib/apt/lists/* \
  && rm -rf /usr/local/tomcat/webapps /usr/local/tomcat/webapps.dist \
- && mkdir -p /usr/local/tomcat/webapps /app
+ && mkdir -p /usr/local/tomcat/webapps /usr/local/tomcat/conf/Catalina/localhost /app
 COPY docker/server.xml docker/context.xml /usr/local/tomcat/conf/
 COPY --from=build /out/ROOT /usr/local/tomcat/webapps/ROOT
 COPY --from=build /out/pyx.properties.template /app/
@@ -32,7 +32,7 @@ COPY pyx.sqlite /app/pyx.sqlite
 COPY docker/entrypoint.sh /app/entrypoint.sh
 RUN chmod 755 /app/entrypoint.sh \
  && chown -R 1000:1000 /app /usr/local/tomcat/webapps /usr/local/tomcat/logs \
-      /usr/local/tomcat/temp /usr/local/tomcat/work
+      /usr/local/tomcat/temp /usr/local/tomcat/work /usr/local/tomcat/conf/Catalina
 USER 1000:1000
 EXPOSE 8080
 ENTRYPOINT ["/app/entrypoint.sh"]
