@@ -1,0 +1,3699 @@
+{
+ "name": "Base Game (IT)",
+ "language": "it",
+ "blank": "________",
+ "license": "CC BY-NC-SA 3.0. Card format and base cards: Pretend You're Xyzzy by Andy Janata, from Cards Against Humanity. Italian edition: iperuranio/PretendYoureXyzzy",
+ "black": [
+  {
+   "id": 1,
+   "text": "La nuova norma sulla sicurezza ora proibisce ________ sugli aerei.",
+   "pick": 1
+  },
+  {
+   "id": 2,
+   "text": "Qual è il vizio segreto di Batman?",
+   "pick": 1
+  },
+  {
+   "id": 3,
+   "text": "E il premio Oscar per ________ va a ________.",
+   "pick": 2
+  },
+  {
+   "id": 4,
+   "text": "________? C'è un app per quello.",
+   "pick": 1
+  },
+  {
+   "id": 5,
+   "text": "Mentre gli USA e la Russia gareggiavano per la conquista della Luna, il messico ha investito milioni di pesos in ________.",
+   "pick": 1
+  },
+  {
+   "id": 6,
+   "text": "E' un peccato che i ragazzini al giorno d'oggi partecipino a ________.",
+   "pick": 1
+  },
+  {
+   "id": 7,
+   "text": "Il prossimo romanzo di J.K.Rowling: Harry potter e la camera dei ________.",
+   "pick": 1
+  },
+  {
+   "id": 8,
+   "text": "Per il mio prossimo numero tirerò fuori ________ da ________.",
+   "pick": 2
+  },
+  {
+   "id": 9,
+   "text": "Passo 1: ________.\nPasso 2: ________.\nPasso 3: Guadagno!",
+   "pick": 2
+  },
+  {
+   "id": 10,
+   "text": "Nel nuovo film della Disney, Hannah Montana si scontra per la prima volta contro ________.",
+   "pick": 1
+  },
+  {
+   "id": 11,
+   "text": "Fra 1000 anni, quando le banconote saranno soltanto un ricordo lontano, ________ sarà il nostro denaro.",
+   "pick": 1
+  },
+  {
+   "id": 12,
+   "text": "Sì, ho ucciso ________. Ti domandi come?",
+   "pick": 1
+  },
+  {
+   "id": 13,
+   "text": "________ + ________ = ________.",
+   "pick": 3
+  },
+  {
+   "id": 14,
+   "text": "________. Scommetto che non ne desideri soltanto uno!",
+   "pick": 1
+  },
+  {
+   "id": 15,
+   "text": "Qual è il mio potere segreto?",
+   "pick": 1
+  },
+  {
+   "id": 16,
+   "text": "In serie A è stato vietato ________ poiché dà un vantaggio ingiusto ai giocatori.",
+   "pick": 1
+  },
+  {
+   "id": 17,
+   "text": "Prof. mi dispiace ma non ho potuto finire i compiti per colpa di ________.",
+   "pick": 1
+  },
+  {
+   "id": 18,
+   "text": "Cosa ho portato dal Messico?",
+   "pick": 1
+  },
+  {
+   "id": 19,
+   "text": "Qual è il mio antidroga?",
+   "pick": 1
+  },
+  {
+   "id": 20,
+   "text": "Qual è la nuova dieta del movimento?",
+   "pick": 1
+  },
+  {
+   "id": 21,
+   "text": "Cosa mangia Vin Diesel per cena?",
+   "pick": 1
+  },
+  {
+   "id": 22,
+   "text": "Quando il faraone rimase impassibile, Mosè scatenò la piaga ________.",
+   "pick": 1
+  },
+  {
+   "id": 23,
+   "text": "Come faccio a mantenere la mia attuale relazione?",
+   "pick": 1
+  },
+  {
+   "id": 24,
+   "text": "Qual è la cosa più incrostata?",
+   "pick": 1
+  },
+  {
+   "id": 25,
+   "text": "Mentre ero sotto gli effetti di acidi, ________ si trasformò in ________.",
+   "pick": 2
+  },
+  {
+   "id": 26,
+   "text": "Nel carcere di Los Angeles le voci dicono che puoi scambiare 200 sigarette per ________.",
+   "pick": 1
+  },
+  {
+   "id": 27,
+   "text": "Dopo il terremoto Sean Penn portò ________ alle persone di Haiti.",
+   "pick": 1
+  },
+  {
+   "id": 28,
+   "text": "Invece del carbone la Befana ora porta ai bambini cattivi ________.",
+   "pick": 1
+  },
+  {
+   "id": 29,
+   "text": "La vita degli indiani d'America cambiò per sempre quando gli uomini bianchi li introdussero a ________.",
+   "pick": 1
+  },
+  {
+   "id": 30,
+   "text": "Cosa usano gli insegnanti per ispirare al successo i ragazzi?",
+   "pick": 1
+  },
+  {
+   "id": 31,
+   "text": "Amaro Montenegro: sapore di ________.",
+   "pick": 1
+  },
+  {
+   "id": 32,
+   "text": "Negli ultimi istanti di vita, Michael Jackson pensò a ________.",
+   "pick": 1
+  },
+  {
+   "id": 33,
+   "text": "Ai neri piace ________.",
+   "pick": 1
+  },
+  {
+   "id": 34,
+   "text": "________ è una tendenza pericolosa che porta a ________.",
+   "pick": 2
+  },
+  {
+   "id": 35,
+   "text": "Perché ho male ovunque?",
+   "pick": 1
+  },
+  {
+   "id": 36,
+   "text": "Una romantica cena a lume di candela è incompleta senza ________.",
+   "pick": 1
+  },
+  {
+   "id": 37,
+   "text": "Cosa posso andare a prendere dal passato per convincere la gente di essere un potente stregone?",
+   "pick": 1
+  },
+  {
+   "id": 38,
+   "text": "Sono Valerio Staffelli e sono qui per parlarvi di ________.",
+   "pick": 1
+  },
+  {
+   "id": 39,
+   "text": "La gita scolastica fu completamente rovinata da ________.",
+   "pick": 1
+  },
+  {
+   "id": 40,
+   "text": "Qual è il miglior amico di una ragazza?",
+   "pick": 1
+  },
+  {
+   "id": 41,
+   "text": "Cara TopGirl, ho difficoltà con ________ e vorrei qualche consiglio.",
+   "pick": 1
+  },
+  {
+   "id": 42,
+   "text": "Quando sarò il capo del governo creerò il Ministero del ________.",
+   "pick": 1
+  },
+  {
+   "id": 43,
+   "text": "Cosa mi stanno nascondendo i miei genitori?",
+   "pick": 1
+  },
+  {
+   "id": 44,
+   "text": "Cosa non fallisce mai nel ravvivare una festa?",
+   "pick": 1
+  },
+  {
+   "id": 45,
+   "text": "In un mondo depredato da ________, il nostro unico conforto è ________.",
+   "pick": 2
+  },
+  {
+   "id": 46,
+   "text": "Inventa un kink.",
+   "pick": 1
+  },
+  {
+   "id": 47,
+   "text": "Nel nuovo film di Shyamalan, Bruce Willis scopre che ________ era invece ________ per tutto il tempo.",
+   "pick": 2
+  },
+  {
+   "id": 48,
+   "text": "Cosa migliora con l'età?",
+   "pick": 1
+  },
+  {
+   "id": 49,
+   "text": "________: buono fino all'ultima goccia.",
+   "pick": 1
+  },
+  {
+   "id": 50,
+   "text": "Ho un sacco di problemi ma ________ non è tra questi.",
+   "pick": 1
+  },
+  {
+   "id": 51,
+   "text": "________: è una trappola.",
+   "pick": 1
+  },
+  {
+   "id": 52,
+   "text": "Il nuovo reality show di MTV presenterà otto celebrità sull'orlo dello sfinimento che vivranno con ________.",
+   "pick": 1
+  },
+  {
+   "id": 53,
+   "text": "Cos'è che mia nonna troverebbe allarmante ma allo stesso tempo anche stranamente affascinante?",
+   "pick": 1
+  },
+  {
+   "id": 54,
+   "text": "Chi è il più frocio?",
+   "pick": 1
+  },
+  {
+   "id": 55,
+   "text": "Non avevo veramente compreso ________ finché non incontrai ________.",
+   "pick": 2
+  },
+  {
+   "id": 56,
+   "text": "Durante il sesso mi piace pensare a ________.",
+   "pick": 1
+  },
+  {
+   "id": 57,
+   "text": "Cosa fece finire la mia passata relazione?",
+   "pick": 1
+  },
+  {
+   "id": 58,
+   "text": "Cos'è questo suono?",
+   "pick": 1
+  },
+  {
+   "id": 59,
+   "text": "________.\nCosì è come voglio morire!",
+   "pick": 1
+  },
+  {
+   "id": 60,
+   "text": "Perché sono così appiccicoso?",
+   "pick": 1
+  },
+  {
+   "id": 61,
+   "text": "Quale sarà il prossimo giocattolo dell'Happy Meal?",
+   "pick": 1
+  },
+  {
+   "id": 62,
+   "text": "Cosa sarà disponibile a volontà in paradiso?",
+   "pick": 1
+  },
+  {
+   "id": 63,
+   "text": "Non so con che armi sarà combattuta la terza guerra mondiale ma nella quarta si useranno ________.",
+   "pick": 1
+  },
+  {
+   "id": 64,
+   "text": "Cosa ti permette di portarti a letto, con assoluta certezza, una ragazza?",
+   "pick": 1
+  },
+  {
+   "id": 65,
+   "text": "Voci dicono che il piatto di Vladimir Putin sia ________ ripieno di ________.",
+   "pick": 2
+  },
+  {
+   "id": 66,
+   "text": "LA7 presenta ________: la storia di ________.",
+   "pick": 2
+  },
+  {
+   "id": 67,
+   "text": "________: testato sui bambini, approvato dalle madri.",
+   "pick": 1
+  },
+  {
+   "id": 68,
+   "text": "Perché non riesco a dormire?",
+   "pick": 1
+  },
+  {
+   "id": 69,
+   "text": "Cos'è questo odore?",
+   "pick": 1
+  },
+  {
+   "id": 70,
+   "text": "Cosa aiuterebbe Sergio Mattarella a rilassarsi?",
+   "pick": 1
+  },
+  {
+   "id": 71,
+   "text": "Questo è come il mondo finirà, non con una esplosione ma con ________.",
+   "pick": 1
+  },
+  {
+   "id": 72,
+   "text": "In arrivo a Broadway quest'anno, ________: il musical.",
+   "pick": 1
+  },
+  {
+   "id": 73,
+   "text": "Gli antropologi hanno recentemente scoperto un'antica tribù che venera ________.",
+   "pick": 1
+  },
+  {
+   "id": 74,
+   "text": "Ma prima che la uccida Signor Bond le voglio mostrare ________.",
+   "pick": 1
+  },
+  {
+   "id": 75,
+   "text": "Recenti studi hanno mostrato che topi di laboratorio impiegano il 50% in meno per uscire da un labirinto se sono stati esposti a ________.",
+   "pick": 1
+  },
+  {
+   "id": 76,
+   "text": "La prossima coppia di supereroi sarà composta da ________ e ________.",
+   "pick": 2
+  },
+  {
+   "id": 77,
+   "text": "Prossimamente su Rai Sport 2: i mondiali di ________.",
+   "pick": 1
+  },
+  {
+   "id": 78,
+   "text": "Quando sarò milionario erigerò una statua di 30 metri per commemorare ________.",
+   "pick": 1
+  },
+  {
+   "id": 79,
+   "text": "Nel tentativo di attrarre nuove persone, il museo nazionale di Storia Naturale inaugurerà una mostra interattiva su ________.",
+   "pick": 1
+  },
+  {
+   "id": 80,
+   "text": "La guerra? Serve ovviamente a ________.",
+   "pick": 1
+  },
+  {
+   "id": 81,
+   "text": "Cosa mi crea flatulenze incontrollabili?",
+   "pick": 1
+  },
+  {
+   "id": 82,
+   "text": "Di cosa odorano le persone anziane?",
+   "pick": 1
+  },
+  {
+   "id": 83,
+   "text": "A cosa rinuncio per la quaresima?",
+   "pick": 1
+  },
+  {
+   "id": 84,
+   "text": "La medicina alternativa sta ora adottando i poteri curativi di ________.",
+   "pick": 1
+  },
+  {
+   "id": 85,
+   "text": "Quale cosa l'Italia ha paracadutato ai bambini afghani?",
+   "pick": 1
+  },
+  {
+   "id": 86,
+   "text": "Cosa piace a Silvio Berlusconi?",
+   "pick": 1
+  },
+  {
+   "id": 87,
+   "text": "Durante il trascurato Periodo Marrone, Picasso ha prodotto centinaia di quadri su ________.",
+   "pick": 1
+  },
+  {
+   "id": 88,
+   "text": "Cosa non vorresti trovare nel tuo cibo cinese?",
+   "pick": 1
+  },
+  {
+   "id": 89,
+   "text": "Bevo per dimenticare ________.",
+   "pick": 1
+  },
+  {
+   "id": 90,
+   "text": "________. Dammi un cinque fratello!",
+   "pick": 1
+  },
+  {
+   "id": 91,
+   "text": "Sei simpatico come ________.",
+   "pick": 1
+  },
+  {
+   "id": 92,
+   "text": "Il video della canzone \"YMCA\" fu registrato dai VillagePeople vestiti da marinaio, pompiere, indiano e ________.",
+   "pick": 1
+  },
+  {
+   "id": 93,
+   "text": "Arricchisciti rapidamente con ________.",
+   "pick": 1
+  },
+  {
+   "id": 94,
+   "text": "Se ti piace PornHub, adorerai ________.",
+   "pick": 1
+  },
+  {
+   "id": 95,
+   "text": "________ è la radice di tutti i mali del mondo.",
+   "pick": 1
+  },
+  {
+   "id": 96,
+   "text": "Questa bibita energetica ha sapore di ________.",
+   "pick": 1
+  },
+  {
+   "id": 97,
+   "text": "L'assenza di ________ è un evidente sintomo di ________.",
+   "pick": 2
+  },
+  {
+   "id": 98,
+   "text": "Era una notte buia e tempestosa. Ad un tratto la porta sbattè e ________.",
+   "pick": 1
+  },
+  {
+   "id": 99,
+   "text": "KEEP CALM AND ________.",
+   "pick": 1
+  },
+  {
+   "id": 100,
+   "text": "Rimedi naturali per combattere la flatulenza: ________",
+   "pick": 1
+  },
+  {
+   "id": 101,
+   "text": "Dopo 10 anni di fidanzamento ti lascia con due semplici parole: \"sono omosessuale\".\nLa tua reazione è ________.",
+   "pick": 1
+  },
+  {
+   "id": 102,
+   "text": "Salendo in soffitta ho aperto l'antico baule di mia nonna e al suo interno ho trovato ________.",
+   "pick": 1
+  },
+  {
+   "id": 103,
+   "text": "E' il mio primo volo in aereo, ma il passeggero seduto accanto a me ________.",
+   "pick": 1
+  },
+  {
+   "id": 104,
+   "text": "L'Italia è fallita! Non ci sono più soldi. Adesso non mi resta che ________.",
+   "pick": 1
+  },
+  {
+   "id": 105,
+   "text": "Benvenuti nella terra di ________ dove potete ammirare ________ allo stato brado!",
+   "pick": 2
+  },
+  {
+   "id": 106,
+   "text": "Caro Babbo Natale, quest'anno in regalo vorrei ________.",
+   "pick": 1
+  },
+  {
+   "id": 107,
+   "text": "Amore mio, sono qui in ginocchio davanti a te per ________.",
+   "pick": 1
+  },
+  {
+   "id": 108,
+   "text": "Ciao, sono Silvio Berlusconi e quando verrò eletto restituirò ________.",
+   "pick": 1
+  },
+  {
+   "id": 109,
+   "text": "Ogni volta che ascolto la voce di ________ mi viene voglia di ________.",
+   "pick": 2
+  },
+  {
+   "id": 110,
+   "text": "Il mio primo pensiero al mattino è ________.",
+   "pick": 1
+  },
+  {
+   "id": 111,
+   "text": "Piuttosto che andare dalla suocera, preferisco ________.",
+   "pick": 1
+  },
+  {
+   "id": 112,
+   "text": "A proposito di ________, per me la soluzione è ________.",
+   "pick": 2
+  },
+  {
+   "id": 113,
+   "text": "Non so ________, ora cerco come si fa su YouTube.",
+   "pick": 1
+  },
+  {
+   "id": 114,
+   "text": "Dlin dlon, un addetto alle pulizie al reparto ________.",
+   "pick": 1
+  },
+  {
+   "id": 115,
+   "text": "Il peggior regalo di natale mai avuto da bambino è stato ________.",
+   "pick": 1
+  },
+  {
+   "id": 116,
+   "text": "Prova la nuova philadelphia al gusto di ________.",
+   "pick": 1
+  },
+  {
+   "id": 117,
+   "text": "Quando Pandora aprì il vaso vi trovò un'unica cosa: ________.",
+   "pick": 1
+  },
+  {
+   "id": 118,
+   "text": "Walt Disney presenta ________: un nuovo cartoon che parla di ________.",
+   "pick": 2
+  },
+  {
+   "id": 119,
+   "text": "Stai facendo sesso selvaggio e succede che ________.",
+   "pick": 1
+  },
+  {
+   "id": 120,
+   "text": "Rocoo Siffredi nel tempo libero colleziona ________.",
+   "pick": 1
+  },
+  {
+   "id": 121,
+   "text": "\"Mamma, papà, come nascono i bambini?\"\n________.",
+   "pick": 1
+  },
+  {
+   "id": 122,
+   "text": "Il 1930 è spesso indicato come l'età d'oro del ________.",
+   "pick": 1
+  },
+  {
+   "id": 123,
+   "text": "Un ________ al giorno leva ________ di torno.",
+   "pick": 2
+  },
+  {
+   "id": 124,
+   "text": "La verità è che alla fine dell'universo c'è soltanto ________.",
+   "pick": 1
+  },
+  {
+   "id": 125,
+   "text": "E' ampiamente diffusa l'idea che i nostri antenati non si sarebbero mai evoluti senza ________.",
+   "pick": 1
+  },
+  {
+   "id": 126,
+   "text": "Una VERA donna vuole solo ________.",
+   "pick": 1
+  },
+  {
+   "id": 127,
+   "text": "________: un'invenzione che potrebbe salvare il mondo.",
+   "pick": 1
+  },
+  {
+   "id": 128,
+   "text": "Ho un'idea vincente per un nuovo programma tv. ________",
+   "pick": 1
+  },
+  {
+   "id": 129,
+   "text": "La ricetta del successo: ________.",
+   "pick": 1
+  },
+  {
+   "id": 130,
+   "text": "Uccidi i tuoi nemici con ________.",
+   "pick": 1
+  },
+  {
+   "id": 131,
+   "text": "Al primo appuntamento ti presenti con ________.",
+   "pick": 1
+  },
+  {
+   "id": 132,
+   "text": "Cos'hai fatto l'estate scorsa?",
+   "pick": 1
+  },
+  {
+   "id": 133,
+   "text": "Vieni sorpreso da un temporale, per non bagnarti ti rifugi ________.",
+   "pick": 1
+  },
+  {
+   "id": 134,
+   "text": "________ non così che vi fate male.",
+   "pick": 1
+  },
+  {
+   "id": 135,
+   "text": "Vorrei ________ per conquistare ________.",
+   "pick": 2
+  },
+  {
+   "id": 136,
+   "text": "Primo classificato in ________.",
+   "pick": 1
+  },
+  {
+   "id": 137,
+   "text": "La mia ultima frase sul letto di morte sarà: ________.",
+   "pick": 1
+  },
+  {
+   "id": 138,
+   "text": "________. Così è la vita.",
+   "pick": 1
+  },
+  {
+   "id": 139,
+   "text": "Il mio sogno ricorrente: ________ che ________.",
+   "pick": 2
+  },
+  {
+   "id": 140,
+   "text": "C'è crisi, si torna al baratto: ________ per ________.",
+   "pick": 2
+  },
+  {
+   "id": 141,
+   "text": "Avevo un piano perfetto, ma non avevo considerato ________.",
+   "pick": 1
+  },
+  {
+   "id": 142,
+   "text": "Hanno appena trovato un ________ nei rifiuti dell'ospedale di Napoli.",
+   "pick": 1
+  },
+  {
+   "id": 143,
+   "text": "Adoro l'odore di ________ la mattina.",
+   "pick": 1
+  },
+  {
+   "id": 144,
+   "text": "Quale sarà la nostra ultima speranza quando un Robot invaderà il mondo?",
+   "pick": 1
+  },
+  {
+   "id": 145,
+   "text": "Quando ho bisto tua madre nuda, mi ha ricordato ________.",
+   "pick": 1
+  },
+  {
+   "id": 146,
+   "text": "La felicità è ________.",
+   "pick": 1
+  },
+  {
+   "id": 147,
+   "text": "Che ore sono? E' l'ora di ________.",
+   "pick": 1
+  },
+  {
+   "id": 148,
+   "text": "In realtà l'11 settembre fu organizzato da ________.",
+   "pick": 1
+  },
+  {
+   "id": 149,
+   "text": "Il Sacro Graal descritto nella Bibbia in realtà non è un calice ma è ________.",
+   "pick": 1
+  },
+  {
+   "id": 150,
+   "text": "Il dottore mi ha comunicato con faccia severa che il mio era un grave caso di ________.",
+   "pick": 1
+  },
+  {
+   "id": 151,
+   "text": "Mi prodigherei in un ricco pompino soltanto per ________.",
+   "pick": 1
+  },
+  {
+   "id": 152,
+   "text": "La nonna mi diceva sempre che ________ mi avrebbe reso cieco.",
+   "pick": 1
+  },
+  {
+   "id": 153,
+   "text": "________ è l'ottavo peccato capitale.",
+   "pick": 1
+  },
+  {
+   "id": 154,
+   "text": "Obama ha un tatuaggio nascosto che raffigura ________.",
+   "pick": 1
+  },
+  {
+   "id": 155,
+   "text": "Baci il rospo ma, invece di trasformarsi in un principe, diventa ________.",
+   "pick": 1
+  },
+  {
+   "id": 156,
+   "text": "La più grande disavventura che può capitare ad una donna è ________.",
+   "pick": 1
+  },
+  {
+   "id": 157,
+   "text": "Mamma mamma, perché papa' indossa le scarpe col tacco 12?.\n\n________",
+   "pick": 1
+  }
+ ],
+ "white": [
+  {
+   "id": 4000,
+   "text": "Una maledizione di un Gitano"
+  },
+  {
+   "id": 4001,
+   "text": "Un momento di silenzio"
+  },
+  {
+   "id": 4002,
+   "text": "Un festival della salsiccia"
+  },
+  {
+   "id": 4003,
+   "text": "Un poliziotto onesto che non ha niente da perdere"
+  },
+  {
+   "id": 4004,
+   "text": "Carestia"
+  },
+  {
+   "id": 4005,
+   "text": "Batteri Mangia-Carne"
+  },
+  {
+   "id": 4006,
+   "text": "Serpenti volanti che fanno sesso"
+  },
+  {
+   "id": 4007,
+   "text": "Non fregarsene un cazzo del Terzo Mondo"
+  },
+  {
+   "id": 4008,
+   "text": "Sexting"
+  },
+  {
+   "id": 4009,
+   "text": "Benny Benassi"
+  },
+  {
+   "id": 4010,
+   "text": "Pornostar"
+  },
+  {
+   "id": 4011,
+   "text": "Stupro e Saccheggio"
+  },
+  {
+   "id": 4012,
+   "text": "72 vergini"
+  },
+  {
+   "id": 4013,
+   "text": "Sparatoria da auto in corsa"
+  },
+  {
+   "id": 4014,
+   "text": "Un paradosso da viaggio nel tempo"
+  },
+  {
+   "id": 4015,
+   "text": "Cucina autentica messicana"
+  },
+  {
+   "id": 4016,
+   "text": "Gioielli da rapper"
+  },
+  {
+   "id": 4017,
+   "text": "Consulente"
+  },
+  {
+   "id": 4018,
+   "text": "Oberato dai debiti"
+  },
+  {
+   "id": 4019,
+   "text": "Problemi col babbo"
+  },
+  {
+   "id": 4020,
+   "text": "Avere l'approvazione di Lapo Elkann"
+  },
+  {
+   "id": 4021,
+   "text": "Far cadere un lampadario sopra ai tuoi nemici e farsi sollevare dalla corda che lo sosteneva"
+  },
+  {
+   "id": 4022,
+   "text": "L'ex presidente George W. Bush"
+  },
+  {
+   "id": 4023,
+   "text": "Nudità completa"
+  },
+  {
+   "id": 4024,
+   "text": "Iniezioni ormonali"
+  },
+  {
+   "id": 4025,
+   "text": "Covare un uovo"
+  },
+  {
+   "id": 4026,
+   "text": "Spogliarsi e mettersi a guardare l’Albero Azzurro"
+  },
+  {
+   "id": 4027,
+   "text": "Far finta di interessarsi"
+  },
+  {
+   "id": 4028,
+   "text": "Ridicolizzarsi in pubblico"
+  },
+  {
+   "id": 4029,
+   "text": "Scambiarsi le siringhe"
+  },
+  {
+   "id": 4030,
+   "text": "Caccole"
+  },
+  {
+   "id": 4031,
+   "text": "L’inevitabile morte termica dell’universo"
+  },
+  {
+   "id": 4032,
+   "text": "Il miracolo della nascita"
+  },
+  {
+   "id": 4033,
+   "text": "Il rapimento alieno"
+  },
+  {
+   "id": 4034,
+   "text": "Tirarlo fuori"
+  },
+  {
+   "id": 4035,
+   "text": "I privilegi dei bianchi"
+  },
+  {
+   "id": 4036,
+   "text": "Compiti da moglie"
+  },
+  {
+   "id": 4037,
+   "text": "La banda Bassotti"
+  },
+  {
+   "id": 4038,
+   "text": "Deodorante AXE"
+  },
+  {
+   "id": 4039,
+   "text": "Il sangue di Cristo"
+  },
+  {
+   "id": 4040,
+   "text": "Orribili incidenti dovuti alla depilazione laser"
+  },
+  {
+   "id": 4041,
+   "text": "BATMAN!!!"
+  },
+  {
+   "id": 4042,
+   "text": "Agricoltura"
+  },
+  {
+   "id": 4043,
+   "text": "Un robusto mongoloide"
+  },
+  {
+   "id": 4044,
+   "text": "Selezione naturale"
+  },
+  {
+   "id": 4045,
+   "text": "Aborti fatti con l’appendiabiti"
+  },
+  {
+   "id": 4046,
+   "text": "Mangiarsi tutti i dolci prima dell’inizio della cena di beneficenza per i malati di AIDS"
+  },
+  {
+   "id": 4047,
+   "text": "Le braccia di Michelle Obama"
+  },
+  {
+   "id": 4048,
+   "text": "World of Warcraft"
+  },
+  {
+   "id": 4049,
+   "text": "Andare in picchiata"
+  },
+  {
+   "id": 4050,
+   "text": "Obesità"
+  },
+  {
+   "id": 4051,
+   "text": "Un montaggio pallavolistico omoerotico"
+  },
+  {
+   "id": 4052,
+   "text": "Tetano"
+  },
+  {
+   "id": 4053,
+   "text": "Una dimostrazione di un accoppiamento"
+  },
+  {
+   "id": 4054,
+   "text": "Torsione del testicolo"
+  },
+  {
+   "id": 4055,
+   "text": "Cena a buffet per 5 euro"
+  },
+  {
+   "id": 4056,
+   "text": "Pizza con la nutella"
+  },
+  {
+   "id": 4057,
+   "text": "Gigi D’Alessio"
+  },
+  {
+   "id": 4058,
+   "text": "Formaggio piccante"
+  },
+  {
+   "id": 4059,
+   "text": "Attacchi di Velociraptor"
+  },
+  {
+   "id": 4060,
+   "text": "Togliersi la maglietta"
+  },
+  {
+   "id": 4061,
+   "text": "Smegma"
+  },
+  {
+   "id": 4062,
+   "text": "Alcolismo"
+  },
+  {
+   "id": 4063,
+   "text": "Un uomo di mezza età con un paio di pattini in linea"
+  },
+  {
+   "id": 4064,
+   "text": "Lo sguardo fisso di una Winx"
+  },
+  {
+   "id": 4065,
+   "text": "Abbuffarsi e vomitare"
+  },
+  {
+   "id": 4066,
+   "text": "Lecca-Lecca giganti"
+  },
+  {
+   "id": 4067,
+   "text": "Disgusto di sé"
+  },
+  {
+   "id": 4068,
+   "text": "Bambini al guinzaglio"
+  },
+  {
+   "id": 4069,
+   "text": "Preliminari meschini"
+  },
+  {
+   "id": 4070,
+   "text": "La sacra Bibbia"
+  },
+  {
+   "id": 4071,
+   "text": "Porno in un sotterraneo tedesco"
+  },
+  {
+   "id": 4072,
+   "text": "Montanti"
+  },
+  {
+   "id": 4073,
+   "text": "Agente del servizio clienti"
+  },
+  {
+   "id": 4074,
+   "text": "Un'erezione che dura più di 4 ore"
+  },
+  {
+   "id": 4075,
+   "text": "I miei genitali"
+  },
+  {
+   "id": 4076,
+   "text": "Rimorchiare ragazze all'ospedale dopo un aborto"
+  },
+  {
+   "id": 4077,
+   "text": "Scienza"
+  },
+  {
+   "id": 4078,
+   "text": "Sesso orale non ricambiato"
+  },
+  {
+   "id": 4079,
+   "text": "Uccelli incapaci di volare"
+  },
+  {
+   "id": 4080,
+   "text": "Una buona sniffata"
+  },
+  {
+   "id": 4081,
+   "text": "Tortura cinese"
+  },
+  {
+   "id": 4082,
+   "text": "Una colazione bilanciata"
+  },
+  {
+   "id": 4083,
+   "text": "Scuole gestite da suore"
+  },
+  {
+   "id": 4084,
+   "text": "Rubare veramente le caramelle ad un bambino"
+  },
+  {
+   "id": 4085,
+   "text": "La fondazione Make-A-Wish®."
+  },
+  {
+   "id": 4086,
+   "text": "Una grattata di culo clandestina"
+  },
+  {
+   "id": 4087,
+   "text": "Post-it passivi aggressivi."
+  },
+  {
+   "id": 4088,
+   "text": "La squadra di ginnastica artistica cinese"
+  },
+  {
+   "id": 4089,
+   "text": "Passare a Vodafone"
+  },
+  {
+   "id": 4090,
+   "text": "Fare solo un pochino di pipì"
+  },
+  {
+   "id": 4091,
+   "text": "Video di Barbara D’Urso in lacrime mentre ascolta una storia triste"
+  },
+  {
+   "id": 4092,
+   "text": "Polluzione notturna"
+  },
+  {
+   "id": 4093,
+   "text": "Gli ebrei"
+  },
+  {
+   "id": 4094,
+   "text": "Le mie tette"
+  },
+  {
+   "id": 4095,
+   "text": "Cosce poderose"
+  },
+  {
+   "id": 4096,
+   "text": "Fare occhiolino a persone anziane"
+  },
+  {
+   "id": 4097,
+   "text": "Il frutto proibito"
+  },
+  {
+   "id": 4098,
+   "text": "Dolce, dolce vendetta"
+  },
+  {
+   "id": 4099,
+   "text": "Natalie Portman"
+  },
+  {
+   "id": 4100,
+   "text": "Mr. Muscolo, giusto dietro di te"
+  },
+  {
+   "id": 4101,
+   "text": "Skeletor"
+  },
+  {
+   "id": 4102,
+   "text": "Popolo delle Libertà"
+  },
+  {
+   "id": 4103,
+   "text": "Toccare una tetta senza dare nell’occhio"
+  },
+  {
+   "id": 4104,
+   "text": "Un operoso cinese"
+  },
+  {
+   "id": 4105,
+   "text": "Una gentile carezza nell'interno della coscia"
+  },
+  {
+   "id": 4106,
+   "text": "KiteKat®"
+  },
+  {
+   "id": 4107,
+   "text": "Scaccolarsi con l'alluce del piede sinistro"
+  },
+  {
+   "id": 4108,
+   "text": "Piloti Kamikaze"
+  },
+  {
+   "id": 4109,
+   "text": "Un falco con un cappuccio in testa"
+  },
+  {
+   "id": 4110,
+   "text": "Tensione sessuale"
+  },
+  {
+   "id": 4111,
+   "text": "Essere ricco"
+  },
+  {
+   "id": 4112,
+   "text": "Un’antilope che soffre di flatulenza"
+  },
+  {
+   "id": 4113,
+   "text": "Sean Connery"
+  },
+  {
+   "id": 4114,
+   "text": "Chierichetti"
+  },
+  {
+   "id": 4115,
+   "text": "Pac-Man"
+  },
+  {
+   "id": 4116,
+   "text": "Fare la cosa giusta"
+  },
+  {
+   "id": 4117,
+   "text": "RoboCop"
+  },
+  {
+   "id": 4118,
+   "text": "Gorgheggi in momenti inappropriati"
+  },
+  {
+   "id": 4119,
+   "text": "Mani vigorose da jazzista"
+  },
+  {
+   "id": 4120,
+   "text": "Diventare cosi arrabbiati da farsi venire un’erezione"
+  },
+  {
+   "id": 4121,
+   "text": "I patti Lateranensi"
+  },
+  {
+   "id": 4122,
+   "text": "Faccia tosta"
+  },
+  {
+   "id": 4123,
+   "text": "Pubertà"
+  },
+  {
+   "id": 4124,
+   "text": "Ditalini"
+  },
+  {
+   "id": 4125,
+   "text": "Campioni gratuiti"
+  },
+  {
+   "id": 4126,
+   "text": "Allattamento"
+  },
+  {
+   "id": 4127,
+   "text": "Justin Bieber"
+  },
+  {
+   "id": 4128,
+   "text": "Fantasmi"
+  },
+  {
+   "id": 4129,
+   "text": "Bruno Vespa che si impiglia con lo scroto in un gancio per le tende"
+  },
+  {
+   "id": 4130,
+   "text": "Un gran rumore per nulla"
+  },
+  {
+   "id": 4131,
+   "text": "La pace nel mondo"
+  },
+  {
+   "id": 4132,
+   "text": "Oompa-Loompa"
+  },
+  {
+   "id": 4133,
+   "text": "Una spagnola non simmetrica"
+  },
+  {
+   "id": 4134,
+   "text": "Polaretti®"
+  },
+  {
+   "id": 4135,
+   "text": "Violenza della polizia"
+  },
+  {
+   "id": 4136,
+   "text": "Mascherare una risata quando vengono menzionati gli Hutu e i Tutsi"
+  },
+  {
+   "id": 4137,
+   "text": "Esattamente quello che ti aspetti"
+  },
+  {
+   "id": 4138,
+   "text": "Un succulento seno"
+  },
+  {
+   "id": 4139,
+   "text": "Herpes labiale"
+  },
+  {
+   "id": 4140,
+   "text": "Totò Riina"
+  },
+  {
+   "id": 4141,
+   "text": "Twittare"
+  },
+  {
+   "id": 4142,
+   "text": "Aspettarsi un rutto e invece vomitare sul pavimento"
+  },
+  {
+   "id": 4143,
+   "text": "Sesso tra panda"
+  },
+  {
+   "id": 4144,
+   "text": "Capodogli"
+  },
+  {
+   "id": 4145,
+   "text": "Preadolescente"
+  },
+  {
+   "id": 4146,
+   "text": "Darth Fenner"
+  },
+  {
+   "id": 4147,
+   "text": "Psicofarmaci"
+  },
+  {
+   "id": 4148,
+   "text": "Una lobotomia fatta con un punteruolo"
+  },
+  {
+   "id": 4149,
+   "text": "Barboni"
+  },
+  {
+   "id": 4150,
+   "text": "Scalpare"
+  },
+  {
+   "id": 4151,
+   "text": "Una pugnetta triste"
+  },
+  {
+   "id": 4152,
+   "text": "Cellule staminali embrionali"
+  },
+  {
+   "id": 4153,
+   "text": "Tom Cruise"
+  },
+  {
+   "id": 4154,
+   "text": "Petting duro"
+  },
+  {
+   "id": 4155,
+   "text": "Incesto"
+  },
+  {
+   "id": 4156,
+   "text": "Dio"
+  },
+  {
+   "id": 4157,
+   "text": "Leccare cose per rivendicarle come proprie"
+  },
+  {
+   "id": 4158,
+   "text": "Scopamici"
+  },
+  {
+   "id": 4159,
+   "text": "I miei demoni interiori"
+  },
+  {
+   "id": 4160,
+   "text": "Pac-Man che trangugia sperma"
+  },
+  {
+   "id": 4161,
+   "text": "Esfoliarsi la pelle sotto i rotoli di grasso"
+  },
+  {
+   "id": 4162,
+   "text": "Birra Moretti"
+  },
+  {
+   "id": 4163,
+   "text": "Dipingere con le dita"
+  },
+  {
+   "id": 4164,
+   "text": "Un Liquidator® pieno di piscio di gatto"
+  },
+  {
+   "id": 4165,
+   "text": "Un mimo che ha un infarto"
+  },
+  {
+   "id": 4166,
+   "text": "Doccia di piscio"
+  },
+  {
+   "id": 4167,
+   "text": "La placenta"
+  },
+  {
+   "id": 4168,
+   "text": "Lodore delle persone vecchie"
+  },
+  {
+   "id": 4169,
+   "text": "Giuseppe Mazzini"
+  },
+  {
+   "id": 4170,
+   "text": "Hulk Hogan"
+  },
+  {
+   "id": 4171,
+   "text": "Emozioni"
+  },
+  {
+   "id": 4172,
+   "text": "Combustione umana spontanea"
+  },
+  {
+   "id": 4173,
+   "text": "Avere soltanto un pollo di gomma con una carrucola in mezzo"
+  },
+  {
+   "id": 4174,
+   "text": "Coccolarsi"
+  },
+  {
+   "id": 4175,
+   "text": "Rosso relativo"
+  },
+  {
+   "id": 4176,
+   "text": "Un compleanno deludente"
+  },
+  {
+   "id": 4177,
+   "text": "Diego Abatantuono"
+  },
+  {
+   "id": 4178,
+   "text": "Distruzione reciproca"
+  },
+  {
+   "id": 4179,
+   "text": "Mangiare l'ultimo bisonte"
+  },
+  {
+   "id": 4180,
+   "text": "Combattimenti tra galli"
+  },
+  {
+   "id": 4181,
+   "text": "Una sfacciata donna di colore"
+  },
+  {
+   "id": 4182,
+   "text": "Cavalcare al tramonto"
+  },
+  {
+   "id": 4183,
+   "text": "Pedofili"
+  },
+  {
+   "id": 4184,
+   "text": "Catapulte"
+  },
+  {
+   "id": 4185,
+   "text": "Fuoco amico"
+  },
+  {
+   "id": 4186,
+   "text": "Ragazzini che partecipano alle olimpiadi della matematica"
+  },
+  {
+   "id": 4187,
+   "text": "Un colpo di scena degno di M. Night Shyamalan"
+  },
+  {
+   "id": 4188,
+   "text": "Lievito"
+  },
+  {
+   "id": 4189,
+   "text": "Persone povere"
+  },
+  {
+   "id": 4190,
+   "text": "Ronald Reagan"
+  },
+  {
+   "id": 4191,
+   "text": "Un minuscolo cavallo"
+  },
+  {
+   "id": 4192,
+   "text": "Dreadlock"
+  },
+  {
+   "id": 4193,
+   "text": "Saccheggiare tombe"
+  },
+  {
+   "id": 4194,
+   "text": "Il nome della rosa"
+  },
+  {
+   "id": 4195,
+   "text": "Hustle - I signori della truffa"
+  },
+  {
+   "id": 4196,
+   "text": "Bocca larga"
+  },
+  {
+   "id": 4197,
+   "text": "Sarah Palin"
+  },
+  {
+   "id": 4198,
+   "text": "L'invidia per il pene"
+  },
+  {
+   "id": 4199,
+   "text": "11 Ku Klux Klan"
+  },
+  {
+   "id": 4200,
+   "text": "La forza"
+  },
+  {
+   "id": 4201,
+   "text": "AIDS"
+  },
+  {
+   "id": 4202,
+   "text": "Giochi senza frontiere"
+  },
+  {
+   "id": 4203,
+   "text": "Curare l'omosessualità pregando"
+  },
+  {
+   "id": 4204,
+   "text": "Gengis Khan"
+  },
+  {
+   "id": 4205,
+   "text": "Pulirle il culo"
+  },
+  {
+   "id": 4206,
+   "text": "Foto di tette"
+  },
+  {
+   "id": 4207,
+   "text": "Sballarsi"
+  },
+  {
+   "id": 4208,
+   "text": "Spassarsela"
+  },
+  {
+   "id": 4209,
+   "text": "Cristalli di metanfetamina"
+  },
+  {
+   "id": 4210,
+   "text": "Creazionismo"
+  },
+  {
+   "id": 4211,
+   "text": "1l superuomo"
+  },
+  {
+   "id": 4212,
+   "text": "Scientology"
+  },
+  {
+   "id": 4213,
+   "text": "Due nani che stanno cagando in un secchio"
+  },
+  {
+   "id": 4214,
+   "text": "Servi della gleba"
+  },
+  {
+   "id": 4215,
+   "text": "Ace Ventura l'acchiappa animali"
+  },
+  {
+   "id": 4216,
+   "text": "Un bukkake pixellato."
+  },
+  {
+   "id": 4217,
+   "text": "Sole e arcobaleni"
+  },
+  {
+   "id": 4218,
+   "text": "Conati di vomito"
+  },
+  {
+   "id": 4219,
+   "text": "Entrare a canzone iniziata e mettersi a ballare selvaggiamente"
+  },
+  {
+   "id": 4220,
+   "text": "La carriera di attore di Christian De Sica"
+  },
+  {
+   "id": 4221,
+   "text": "Una vita di tristezza"
+  },
+  {
+   "id": 4222,
+   "text": "Una scimmia che fuma un sigaro"
+  },
+  {
+   "id": 4223,
+   "text": "I terroristi"
+  },
+  {
+   "id": 4224,
+   "text": "Lebbra"
+  },
+  {
+   "id": 4225,
+   "text": "Baldanzoso"
+  },
+  {
+   "id": 4226,
+   "text": "Razzismo"
+  },
+  {
+   "id": 4227,
+   "text": "Britney Spears a 55 anni"
+  },
+  {
+   "id": 4228,
+   "text": "Gloryholes"
+  },
+  {
+   "id": 4229,
+   "text": "La giustizia spicciola"
+  },
+  {
+   "id": 4230,
+   "text": "Lancio dei nani"
+  },
+  {
+   "id": 4231,
+   "text": "Il testicolo mancante di Lance Armstrong"
+  },
+  {
+   "id": 4232,
+   "text": "Atteggiamento"
+  },
+  {
+   "id": 4233,
+   "text": "Lame nei capezzoli"
+  },
+  {
+   "id": 4234,
+   "text": "Il cuore di un bambino"
+  },
+  {
+   "id": 4235,
+   "text": "La vagina di Oriana Fallaci"
+  },
+  {
+   "id": 4236,
+   "text": "Il brutto anatroccolo"
+  },
+  {
+   "id": 4237,
+   "text": "Euphoria™ di Calvin Klein"
+  },
+  {
+   "id": 4238,
+   "text": "Autocannibalismo"
+  },
+  {
+   "id": 4239,
+   "text": "Cuccioli!"
+  },
+  {
+   "id": 4240,
+   "text": "Il perineo"
+  },
+  {
+   "id": 4241,
+   "text": "La mano invisibile"
+  },
+  {
+   "id": 4242,
+   "text": "Riciclare regali"
+  },
+  {
+   "id": 4243,
+   "text": "La mia collezione di gicattoli erotici"
+  },
+  {
+   "id": 4244,
+   "text": "Svegliarsi mezzo nudo nel parcheggio di un McDonald"
+  },
+  {
+   "id": 4245,
+   "text": "Ascolto interessato"
+  },
+  {
+   "id": 4246,
+   "text": "Aspettare fino al matrimonio"
+  },
+  {
+   "id": 4247,
+   "text": "Disfunzione erettile"
+  },
+  {
+   "id": 4248,
+   "text": "Il Papa"
+  },
+  {
+   "id": 4249,
+   "text": "Dighe dentali."
+  },
+  {
+   "id": 4250,
+   "text": "Pulizia etnica"
+  },
+  {
+   "id": 4251,
+   "text": "Stupidita incomprensibile"
+  },
+  {
+   "id": 4252,
+   "text": "Sovracompensazione"
+  },
+  {
+   "id": 4253,
+   "text": "Le persone non di colore"
+  },
+  {
+   "id": 4254,
+   "text": "Porno Tentacolari"
+  },
+  {
+   "id": 4255,
+   "text": "Ballare sul ghiaccio con mpersone dello stesso sesso"
+  },
+  {
+   "id": 4256,
+   "text": "Dario Argento"
+  },
+  {
+   "id": 4257,
+   "text": "Mestruazioni"
+  },
+  {
+   "id": 4258,
+   "text": "DEVI COSTRUIRE ALTRI PILONI"
+  },
+  {
+   "id": 4259,
+   "text": "Giuliano Ferrara che vomita convulsamente mentre una nidiata di granchi-ragno si schiude nel suo cervello e fuoriesce dai suoi condotti lacrimali"
+  },
+  {
+   "id": 4260,
+   "text": "Barare alle Paraolimpiadi"
+  },
+  {
+   "id": 4261,
+   "text": "Le bambine"
+  },
+  {
+   "id": 4262,
+   "text": "Una sorpresa salata"
+  },
+  {
+   "id": 4263,
+   "text": "Stupro su appuntamento"
+  },
+  {
+   "id": 4264,
+   "text": "Troppo gel per capelli"
+  },
+  {
+   "id": 4265,
+   "text": "Carisma"
+  },
+  {
+   "id": 4266,
+   "text": "Una rapida occhiata"
+  },
+  {
+   "id": 4267,
+   "text": "Il sud"
+  },
+  {
+   "id": 4268,
+   "text": "Essere fantastici"
+  },
+  {
+   "id": 4269,
+   "text": "Seppuku"
+  },
+  {
+   "id": 4270,
+   "text": "Keanu Reeves"
+  },
+  {
+   "id": 4271,
+   "text": "Cagarsi I'anima"
+  },
+  {
+   "id": 4272,
+   "text": "La violazione dei nostri umani basilari"
+  },
+  {
+   "id": 4273,
+   "text": "Necrofilia"
+  },
+  {
+   "id": 4274,
+   "text": "Super Quark"
+  },
+  {
+   "id": 4275,
+   "text": "Stronze"
+  },
+  {
+   "id": 4276,
+   "text": "Cacca che fa bruciare il culo"
+  },
+  {
+   "id": 4277,
+   "text": "Estrogeni"
+  },
+  {
+   "id": 4278,
+   "text": "Un buco del culo sbiancato"
+  },
+  {
+   "id": 4279,
+   "text": "Bleach"
+  },
+  {
+   "id": 4280,
+   "text": "Kirito"
+  },
+  {
+   "id": 4281,
+   "text": "Jotaro"
+  },
+  {
+   "id": 4282,
+   "text": "Trubli"
+  },
+  {
+   "id": 4283,
+   "text": "ANGELA"
+  },
+  {
+   "id": 4284,
+   "text": "Vladimir Putin"
+  },
+  {
+   "id": 4285,
+   "text": "Le persone di colore"
+  },
+  {
+   "id": 4286,
+   "text": "Le persone totalmente handicappate"
+  },
+  {
+   "id": 4287,
+   "text": "Un altro dannato film sui vampiri"
+  },
+  {
+   "id": 4288,
+   "text": "Un’aspra marmellata per colazione"
+  },
+  {
+   "id": 4289,
+   "text": "Michael Jackson"
+  },
+  {
+   "id": 4290,
+   "text": "Codice cavalleresco"
+  },
+  {
+   "id": 4291,
+   "text": "Orfani commoventi"
+  },
+  {
+   "id": 4292,
+   "text": "Molle Slinky attorcigliate"
+  },
+  {
+   "id": 4293,
+   "text": "Quella cosa che da la scossa agli addominali"
+  },
+  {
+   "id": 4294,
+   "text": "Impianti cibernetici"
+  },
+  {
+   "id": 4295,
+   "text": "Lunchables™"
+  },
+  {
+   "id": 4296,
+   "text": "Hitler"
+  },
+  {
+   "id": 4297,
+   "text": "Il vero significato del Natale"
+  },
+  {
+   "id": 4298,
+   "text": "Espellere un calcolo renale"
+  },
+  {
+   "id": 4299,
+   "text": "Ragazzi che non telefonano"
+  },
+  {
+   "id": 4300,
+   "text": "Masturbating on champion select"
+  },
+  {
+   "id": 4301,
+   "text": "Intimo commestibile"
+  },
+  {
+   "id": 4302,
+   "text": "Sesso a sorpresa!"
+  },
+  {
+   "id": 4303,
+   "text": "Ferite da arma da taglio multiple"
+  },
+  {
+   "id": 4304,
+   "text": "Allusione sul ceto sociale"
+  },
+  {
+   "id": 4305,
+   "text": "Big Mac™"
+  },
+  {
+   "id": 4306,
+   "text": "Farsela addosso"
+  },
+  {
+   "id": 4307,
+   "text": "Salto della quaglia"
+  },
+  {
+   "id": 4308,
+   "text": "Comunisti"
+  },
+  {
+   "id": 4309,
+   "text": "Fascisti"
+  },
+  {
+   "id": 4310,
+   "text": "Quando c'era lui"
+  },
+  {
+   "id": 4311,
+   "text": "I russi"
+  },
+  {
+   "id": 4312,
+   "text": "Flato vaginale"
+  },
+  {
+   "id": 4313,
+   "text": "Zuppa che è troppo calda"
+  },
+  {
+   "id": 4314,
+   "text": "Bere da solo"
+  },
+  {
+   "id": 4315,
+   "text": "Abusi infantili"
+  },
+  {
+   "id": 4316,
+   "text": "Christian De Sica"
+  },
+  {
+   "id": 4317,
+   "text": "Ricardo Milos"
+  },
+  {
+   "id": 4318,
+   "text": "Carne di cavallo"
+  },
+  {
+   "id": 4319,
+   "text": "Testimoni di Geova"
+  },
+  {
+   "id": 4320,
+   "text": "Insegnare a un robot ad amare"
+  },
+  {
+   "id": 4321,
+   "text": "Indossare la biancheria al contrario per evitare di lavarla"
+  },
+  {
+   "id": 4322,
+   "text": "Il sogno americano"
+  },
+  {
+   "id": 4323,
+   "text": "Coronavirus"
+  },
+  {
+   "id": 4324,
+   "text": "Un cappello davvero alla moda"
+  },
+  {
+   "id": 4325,
+   "text": "Discriminazione"
+  },
+  {
+   "id": 4326,
+   "text": "Un mare di guai"
+  },
+  {
+   "id": 4327,
+   "text": "Un raggio della morte"
+  },
+  {
+   "id": 4328,
+   "text": "Bere un barile di birra a testa in giù"
+  },
+  {
+   "id": 4329,
+   "text": "La cappella"
+  },
+  {
+   "id": 4330,
+   "text": "Kim Jong-Un"
+  },
+  {
+   "id": 4331,
+   "text": "Farlo dall’entrata posteriore"
+  },
+  {
+   "id": 4332,
+   "text": "Un mulino a vento pieno di cadaveri"
+  },
+  {
+   "id": 4333,
+   "text": "Il soffitto di vetro"
+  },
+  {
+   "id": 4334,
+   "text": "Quando scoreggi ma ti esce anche una sgommata"
+  },
+  {
+   "id": 4335,
+   "text": "Peli pubici sul bordo del cesso"
+  },
+  {
+   "id": 4336,
+   "text": "Imboccare Platinette"
+  },
+  {
+   "id": 4337,
+   "text": "La tigre dei Kellogg’s"
+  },
+  {
+   "id": 4338,
+   "text": "Un frigorifero pieno di organi"
+  },
+  {
+   "id": 4339,
+   "text": "Rimangiarsi quello che si è detto"
+  },
+  {
+   "id": 4340,
+   "text": "Neonati morti"
+  },
+  {
+   "id": 4341,
+   "text": "Un feto"
+  },
+  {
+   "id": 4342,
+   "text": "Eugenetica"
+  },
+  {
+   "id": 4343,
+   "text": "Harry Potter erotico."
+  },
+  {
+   "id": 4344,
+   "text": "1 kg di eroina Messicana di scarsa qualita"
+  },
+  {
+   "id": 4345,
+   "text": "Prepuzio"
+  },
+  {
+   "id": 4346,
+   "text": "Sparare fucilate al cielo mentre stai penetrando fino alle palle un cinghiale urlante"
+  },
+  {
+   "id": 4347,
+   "text": "La mia situazion sentimentale"
+  },
+  {
+   "id": 4348,
+   "text": "Scuole Superiori"
+  },
+  {
+   "id": 4349,
+   "text": "Stephen Hawking che parla sporco"
+  },
+  {
+   "id": 4350,
+   "text": "Lucia Azzolina"
+  },
+  {
+   "id": 4351,
+   "text": "Assoli di Sassofoni"
+  },
+  {
+   "id": 4352,
+   "text": "Giorgio Napolitano"
+  },
+  {
+   "id": 4353,
+   "text": "Sergio Mattarella"
+  },
+  {
+   "id": 4354,
+   "text": "Christopher Walken"
+  },
+  {
+   "id": 4355,
+   "text": "Sbronzarsi di colluttorio"
+  },
+  {
+   "id": 4356,
+   "text": "Genitori morti"
+  },
+  {
+   "id": 4357,
+   "text": "Americani"
+  },
+  {
+   "id": 4358,
+   "text": "Mutilati"
+  },
+  {
+   "id": 4359,
+   "text": "Scroto"
+  },
+  {
+   "id": 4360,
+   "text": "Nazisti"
+  },
+  {
+   "id": 4361,
+   "text": "Permanenza degli oggetti nello sviluppo cognitivo"
+  },
+  {
+   "id": 4362,
+   "text": "Pollici opponibili"
+  },
+  {
+   "id": 4363,
+   "text": "Nicolas Cage"
+  },
+  {
+   "id": 4364,
+   "text": "Bruno Vespa molestato da uno stormo di avvoltoi"
+  },
+  {
+   "id": 4365,
+   "text": "Pantaloni da cowboy senza sedere"
+  },
+  {
+   "id": 4366,
+   "text": "I Rhapsody of Fire"
+  },
+  {
+   "id": 4367,
+   "text": "Test di intelligenza con domande razziste"
+  },
+  {
+   "id": 4368,
+   "text": "Una sfilata di bellezza per bambini"
+  },
+  {
+   "id": 4369,
+   "text": "Repressione"
+  },
+  {
+   "id": 4370,
+   "text": "Psyco"
+  },
+  {
+   "id": 4371,
+   "text": "Essere tenuto in disparte"
+  },
+  {
+   "id": 4372,
+   "text": "Parlare a vanvera"
+  },
+  {
+   "id": 4373,
+   "text": "Esplosioni"
+  },
+  {
+   "id": 4374,
+   "text": "Droga dello stupro"
+  },
+  {
+   "id": 4375,
+   "text": "Dare il 110%"
+  },
+  {
+   "id": 4376,
+   "text": "Goblin"
+  },
+  {
+   "id": 4377,
+   "text": "RANA"
+  },
+  {
+   "id": 4378,
+   "text": "Motoseghe al posto delle mani"
+  },
+  {
+   "id": 4379,
+   "text": "Sniffare colla"
+  },
+  {
+   "id": 4380,
+   "text": "La mia vagina"
+  },
+  {
+   "id": 4381,
+   "text": "Elisabetta II"
+  },
+  {
+   "id": 4382,
+   "text": "Speranza"
+  },
+  {
+   "id": 4383,
+   "text": "Martin Luther King"
+  },
+  {
+   "id": 4384,
+   "text": "Vichinghi"
+  },
+  {
+   "id": 4385,
+   "text": "Oche"
+  },
+  {
+   "id": 4386,
+   "text": "Fare il labbrino"
+  },
+  {
+   "id": 4387,
+   "text": "Forum"
+  },
+  {
+   "id": 4388,
+   "text": "Un micropene"
+  },
+  {
+   "id": 4389,
+   "text": "Persone eccitanti"
+  },
+  {
+   "id": 4390,
+   "text": "Riscaldamento globale mediante veicoli a motore"
+  },
+  {
+   "id": 4391,
+   "text": "Bambini africani"
+  },
+  {
+   "id": 4392,
+   "text": "La mia anima"
+  },
+  {
+   "id": 4393,
+   "text": "Seduzione"
+  },
+  {
+   "id": 4394,
+   "text": "Musica New Age"
+  },
+  {
+   "id": 4395,
+   "text": "Suffragio femminile"
+  },
+  {
+   "id": 4396,
+   "text": "Massacro di Utoya in Norvegia"
+  },
+  {
+   "id": 4397,
+   "text": "Auto blu"
+  },
+  {
+   "id": 4398,
+   "text": "Un’orgia"
+  },
+  {
+   "id": 4399,
+   "text": "1l complesso di Edipo"
+  },
+  {
+   "id": 4400,
+   "text": "Scaldamani tascabili"
+  },
+  {
+   "id": 4401,
+   "text": "Un profilattico difettoso"
+  },
+  {
+   "id": 4402,
+   "text": "Barack Obama"
+  },
+  {
+   "id": 4403,
+   "text": "Asiatici che non sono bravi in matematica"
+  },
+  {
+   "id": 4404,
+   "text": "Dividere le acque del Mar Rosso"
+  },
+  {
+   "id": 4405,
+   "text": "Panettone"
+  },
+  {
+   "id": 4406,
+   "text": "La mia vita sessuale"
+  },
+  {
+   "id": 4407,
+   "text": "Il clitoride"
+  },
+  {
+   "id": 4408,
+   "text": "Anziani uomini giapponesi"
+  },
+  {
+   "id": 4409,
+   "text": "Arnold Schwarzenegger"
+  },
+  {
+   "id": 4410,
+   "text": "Un leone depresso"
+  },
+  {
+   "id": 4411,
+   "text": "Auschwitz"
+  },
+  {
+   "id": 4412,
+   "text": "Il Big Bang"
+  },
+  {
+   "id": 4413,
+   "text": "Scambiarsi battute divertenti"
+  },
+  {
+   "id": 4414,
+   "text": "Pompino alla guida"
+  },
+  {
+   "id": 4415,
+   "text": "Un sacchetto di fagioli magici"
+  },
+  {
+   "id": 4416,
+   "text": "Una tartaruga alligatore che ti sta mordendo la punta del pene"
+  },
+  {
+   "id": 4417,
+   "text": "Mine antiuomo"
+  },
+  {
+   "id": 4418,
+   "text": "Napoletani"
+  },
+  {
+   "id": 4419,
+   "text": "Coppie omosessuali"
+  },
+  {
+   "id": 4420,
+   "text": "Addominali spettacolari"
+  },
+  {
+   "id": 4421,
+   "text": "I vegani"
+  },
+  {
+   "id": 4422,
+   "text": "Scelte di vita sbagliate"
+  },
+  {
+   "id": 4423,
+   "text": "Una detonazione termonucleare"
+  },
+  {
+   "id": 4424,
+   "text": "Amici che si mangiano tutti i salatini"
+  },
+  {
+   "id": 4425,
+   "text": "Sborrare su un cadavere"
+  },
+  {
+   "id": 4426,
+   "text": "Capre che si stanno mangiando lattine"
+  },
+  {
+   "id": 4427,
+   "text": "Il mio momento"
+  },
+  {
+   "id": 4428,
+   "text": "Fantasie di un taglialegna"
+  },
+  {
+   "id": 4429,
+   "text": "Essere un fottuto stregone"
+  },
+  {
+   "id": 4430,
+   "text": "Palle"
+  },
+  {
+   "id": 4431,
+   "text": "Lo Schiaccianoci: La danza della Fata Cofanetto"
+  },
+  {
+   "id": 4432,
+   "text": "La metropolitana"
+  },
+  {
+   "id": 4433,
+   "text": "Voce di Morgan Freeman"
+  },
+  {
+   "id": 4434,
+   "text": "Piercing nei genitali"
+  },
+  {
+   "id": 4435,
+   "text": "Nonna"
+  },
+  {
+   "id": 4436,
+   "text": "Farsi una sega in una piscinadi lacrime di bambini"
+  },
+  {
+   "id": 4437,
+   "text": "Battute fuori luogo sull’olocausto"
+  },
+  {
+   "id": 4438,
+   "text": "Donne nelle pubblicità di yogurt"
+  },
+  {
+   "id": 4439,
+   "text": "Sperma fluorescente"
+  },
+  {
+   "id": 4440,
+   "text": "Attrito"
+  },
+  {
+   "id": 4441,
+   "text": "Flauto a pelle"
+  },
+  {
+   "id": 4442,
+   "text": "Un mare di guai"
+  },
+  {
+   "id": 4443,
+   "text": "Metodo naturale di allungamento del pene"
+  },
+  {
+   "id": 4444,
+   "text": "Combattimenti sexy con i cuscini"
+  },
+  {
+   "id": 4445,
+   "text": "Rompicogli"
+  },
+  {
+   "id": 4446,
+   "text": "Scoreggiare e andarsene via"
+  },
+  {
+   "id": 4447,
+   "text": "Morire"
+  },
+  {
+   "id": 4448,
+   "text": "Uomini"
+  },
+  {
+   "id": 4449,
+   "text": "Un tumore al cervello"
+  },
+  {
+   "id": 4450,
+   "text": "L'uomo del latte"
+  },
+  {
+   "id": 4451,
+   "text": "Essere uno stronzo con i bambini"
+  },
+  {
+   "id": 4452,
+   "text": "L'uragano Katrina"
+  },
+  {
+   "id": 4453,
+   "text": "Gli Amici"
+  },
+  {
+   "id": 4454,
+   "text": "Carte contro l'umanita"
+  },
+  {
+   "id": 4455,
+   "text": "Essere sboccati"
+  },
+  {
+   "id": 4456,
+   "text": "Installare, in casa, trappole esplosive per ostacolare i ladri"
+  },
+  {
+   "id": 4457,
+   "text": "I gay"
+  },
+  {
+   "id": 4458,
+   "text": "Uova di pterodattilo"
+  },
+  {
+   "id": 4459,
+   "text": "Aver paura di se stesso"
+  },
+  {
+   "id": 4460,
+   "text": "Vomitare a denti stretti per sentire i pezzettoni"
+  },
+  {
+   "id": 4461,
+   "text": "Sistema Oasi Tecnologica del Riposo materassi Eminflex™."
+  },
+  {
+   "id": 4462,
+   "text": "La follia di un uomo"
+  },
+  {
+   "id": 4463,
+   "text": "Esercizi di \"costruzione del gruppo\"?"
+  },
+  {
+   "id": 4464,
+   "text": "Lady Gaga"
+  },
+  {
+   "id": 4465,
+   "text": "Avere peli pubici fra i denti"
+  },
+  {
+   "id": 4466,
+   "text": "Follettina"
+  },
+  {
+   "id": 4467,
+   "text": "Bomba Atomica"
+  },
+  {
+   "id": 4468,
+   "text": "Martello Pneumatico"
+  },
+  {
+   "id": 4469,
+   "text": "BAZINGA!!"
+  },
+  {
+   "id": 4470,
+   "text": "Giovanni Verga"
+  },
+  {
+   "id": 4471,
+   "text": "The Big Bang Theory"
+  },
+  {
+   "id": 4472,
+   "text": "Cavallo Pazzo"
+  },
+  {
+   "id": 4473,
+   "text": "Si trasforma in un razzo missile"
+  },
+  {
+   "id": 4474,
+   "text": "Un'orda famelica di napoletani che non hanno pagato il grattino e vogliono il pizzo!"
+  },
+  {
+   "id": 4475,
+   "text": "Pulire un water incrostato, in un autogrill a Napoli"
+  },
+  {
+   "id": 4476,
+   "text": "Cicciolina nuda"
+  },
+  {
+   "id": 4477,
+   "text": "Poliziotti senza pantaloni con grossi problemi di igiene personale"
+  },
+  {
+   "id": 4478,
+   "text": "Aver paura dei vicoli bui mentre cammini per strada con addosso soltanto un perizoma rosa"
+  },
+  {
+   "id": 4479,
+   "text": "Tatuaggio sbagliato"
+  },
+  {
+   "id": 4480,
+   "text": "Sheldon Cooper"
+  },
+  {
+   "id": 4481,
+   "text": "Uscimmo a riveder le stelle"
+  },
+  {
+   "id": 4482,
+   "text": "Tarapia a tapioco come se fosse antani con la supercazzola prematurata, con lo scappellamento a destra"
+  },
+  {
+   "id": 4483,
+   "text": "Un panino col prosciutto"
+  },
+  {
+   "id": 4484,
+   "text": "La nipote Mubarak"
+  },
+  {
+   "id": 4485,
+   "text": "Scorreggiare nell'ascensore affollato e guardare schifato quello accanto"
+  },
+  {
+   "id": 4486,
+   "text": "Dormire a quattro di spade come se non ci fosse un domani"
+  },
+  {
+   "id": 4487,
+   "text": "Organizzare cene eleganti per scopi professionali"
+  },
+  {
+   "id": 4488,
+   "text": "Un vaffanculo a colazione è quello che ci vuole"
+  },
+  {
+   "id": 4489,
+   "text": "Volere la botte piena, la moglie ubriaca e un cazzo in culo"
+  },
+  {
+   "id": 4490,
+   "text": "Mangiare il ben di Dio e cagare l'opera del diavolo"
+  },
+  {
+   "id": 4491,
+   "text": "Simulare un orgasmo gridando come una capra affamata"
+  },
+  {
+   "id": 4492,
+   "text": "Ho stato io"
+  },
+  {
+   "id": 4493,
+   "text": "Alessandro Cecchi Paone"
+  },
+  {
+   "id": 4494,
+   "text": "Rosario Liccardo"
+  },
+  {
+   "id": 4495,
+   "text": "Diabolico nell'amplesso, sproporzionato per quel che riguarda le dimensioni del sesso"
+  },
+  {
+   "id": 4496,
+   "text": "Una Peroni® sudata"
+  },
+  {
+   "id": 4497,
+   "text": "I celodurismo bossiano"
+  },
+  {
+   "id": 4498,
+   "text": "Un milione per gli organizzatori, dieci per la questura"
+  },
+  {
+   "id": 4499,
+   "text": "Il generatore di fusione che da energia ai tempo-circuiti e al flusso canalizzatore"
+  },
+  {
+   "id": 4500,
+   "text": "Matteo Renzi"
+  },
+  {
+   "id": 4501,
+   "text": "Schiacciare i ricci con il culo"
+  },
+  {
+   "id": 4502,
+   "text": "Fare i gargarismi con il cemento liquido a presa rapida"
+  },
+  {
+   "id": 4503,
+   "text": "Autopsicanalizzarsi"
+  },
+  {
+   "id": 4504,
+   "text": "Truccarsi come Moira Orfei"
+  },
+  {
+   "id": 4505,
+   "text": "Ascoltare Marco Masini durante un giro alla Roulette Russa"
+  },
+  {
+   "id": 4506,
+   "text": "Controllare le sgommate nelle mutande"
+  },
+  {
+   "id": 4507,
+   "text": "La crisi economica"
+  },
+  {
+   "id": 4508,
+   "text": "Guidare a fari spenti nella notte per vedere, se poi è tanto difficile morire"
+  },
+  {
+   "id": 4509,
+   "text": "Travestirsi da puttanone da competizione"
+  },
+  {
+   "id": 4510,
+   "text": "Fare una puzza ed incolpare il cane"
+  },
+  {
+   "id": 4511,
+   "text": "L'ascella maleodorante"
+  },
+  {
+   "id": 4512,
+   "text": "Perché tutto attaccato si scrive staccato mentre staccato si scrive tutto attaccato?"
+  },
+  {
+   "id": 4513,
+   "text": "Scaccolarsi al semaforo e dire al venditore di non volere i fazzoletti."
+  },
+  {
+   "id": 4514,
+   "text": "Bestemmiare insieme al parroco"
+  },
+  {
+   "id": 4515,
+   "text": "Vendere la verginità su ebay"
+  },
+  {
+   "id": 4516,
+   "text": "Essere inculato con veemenza, senza vasellina e con la sabbia da un nero mastodontico."
+  },
+  {
+   "id": 4517,
+   "text": "I BTS"
+  },
+  {
+   "id": 4518,
+   "text": "Ragazze senza gambe che ti fanno i footjob coi moncherini"
+  },
+  {
+   "id": 4519,
+   "text": "Correre con un AK-47 urlando come un pazzo"
+  },
+  {
+   "id": 4520,
+   "text": "Usare un defibrillatore sulle prorpie palle"
+  },
+  {
+   "id": 4521,
+   "text": "Leccare martelli insieme a Miley Cyrus"
+  },
+  {
+   "id": 4522,
+   "text": "SONO ANTAGONISTA E ME NE COMPIACCIO PAGLIACCIO DI GHIACCIO!!"
+  },
+  {
+   "id": 4523,
+   "text": "Minchia nel costume a manico di ombrello"
+  },
+  {
+   "id": 4524,
+   "text": "Le briciole nel letto"
+  },
+  {
+   "id": 4525,
+   "text": "Tazzina da caffé"
+  },
+  {
+   "id": 4526,
+   "text": "Capitan Uncino che vuole farsi il bidet"
+  },
+  {
+   "id": 4527,
+   "text": "La lama celata di Assassin’s Creed."
+  },
+  {
+   "id": 4528,
+   "text": "Inguine rasato per la prova bikini"
+  },
+  {
+   "id": 4529,
+   "text": "Dildo rosa gigante"
+  },
+  {
+   "id": 4530,
+   "text": "Seghe mentali"
+  },
+  {
+   "id": 4531,
+   "text": "Un nero galoppante"
+  },
+  {
+   "id": 4532,
+   "text": "Merda rancida"
+  },
+  {
+   "id": 4533,
+   "text": "Sesso anale a sorpresa"
+  },
+  {
+   "id": 4534,
+   "text": "Supposta al wasabi"
+  },
+  {
+   "id": 4535,
+   "text": "Portare epilettici in discoteca"
+  },
+  {
+   "id": 4536,
+   "text": "La crisi economica mondiale"
+  },
+  {
+   "id": 4537,
+   "text": "Fenicottero assassino"
+  },
+  {
+   "id": 4538,
+   "text": "William Wallace in una spiaggia di nudisti"
+  },
+  {
+   "id": 4539,
+   "text": "Fare economia comprando la carta igienica ruvida"
+  },
+  {
+   "id": 4540,
+   "text": "Saponette fatte con grasso ebreo"
+  },
+  {
+   "id": 4541,
+   "text": "L'occhio di Sauron con la congiuntivite"
+  },
+  {
+   "id": 4542,
+   "text": "Obi Wan Kenobi che simula una pugnetta con la spada laser"
+  },
+  {
+   "id": 4543,
+   "text": "Video porno di Belen"
+  },
+  {
+   "id": 4544,
+   "text": "Pianta di ficus, simbolo del potere"
+  },
+  {
+   "id": 4545,
+   "text": "Riaccendersi il mozzicone di una sigaretta trovata per terra"
+  },
+  {
+   "id": 4546,
+   "text": "Mutande piene di sabbia [della lettiera del gatto]"
+  },
+  {
+   "id": 4547,
+   "text": "Un caffé corretto con del pessimo piscio di cane"
+  },
+  {
+   "id": 4548,
+   "text": "L'insistente signorina che ti propone di cambiare piano telefonico"
+  },
+  {
+   "id": 4549,
+   "text": "La mamma di Stifler"
+  },
+  {
+   "id": 4550,
+   "text": "Peli pubi sconosciuti"
+  },
+  {
+   "id": 4551,
+   "text": "Cotton fioc usati"
+  },
+  {
+   "id": 4552,
+   "text": "Scorreggiare cosi tanto da far scattare l'allarme antigas"
+  },
+  {
+   "id": 4553,
+   "text": "Scaccolarsi il naso ed essere scoperti"
+  },
+  {
+   "id": 4554,
+   "text": "La bambina de \"L’esorcista\""
+  },
+  {
+   "id": 4555,
+   "text": "La versione porno dei Simpsons"
+  },
+  {
+   "id": 4556,
+   "text": "Suocera rompipalle"
+  },
+  {
+   "id": 4557,
+   "text": "Malgioglio"
+  },
+  {
+   "id": 4558,
+   "text": "Uomini nudi che fanno I'elicottero"
+  },
+  {
+   "id": 4559,
+   "text": "Squali volanti"
+  },
+  {
+   "id": 4560,
+   "text": "Fare un rutto mentre si recita la poesia di Natale"
+  },
+  {
+   "id": 4561,
+   "text": "Toccarsi i genitali senza farsi vedere"
+  },
+  {
+   "id": 4562,
+   "text": "Marshmallows avvelenati"
+  },
+  {
+   "id": 4563,
+   "text": "Sbagliare DVD e far partire un porno"
+  },
+  {
+   "id": 4564,
+   "text": "Vecchietti che guardano lavori in corso con le braccia dietro la schiena"
+  },
+  {
+   "id": 4565,
+   "text": "Sculacciata"
+  },
+  {
+   "id": 4566,
+   "text": "Il 69"
+  },
+  {
+   "id": 4567,
+   "text": "Fare piedino alla persona sbagliata."
+  },
+  {
+   "id": 4568,
+   "text": "Una collezione di porno con protagonisti nani ben dotati"
+  },
+  {
+   "id": 4569,
+   "text": "Blue screen of death"
+  },
+  {
+   "id": 4570,
+   "text": "Un quadro dipinto da una scimmia con le emorroidi"
+  },
+  {
+   "id": 4571,
+   "text": "Essere controllati dagli USA tramite l'NSA"
+  },
+  {
+   "id": 4572,
+   "text": "Fingere un malessere per non rispondere ad una domanda"
+  },
+  {
+   "id": 4573,
+   "text": "Il funerale di"
+  },
+  {
+   "id": 4574,
+   "text": "Nietzsche"
+  },
+  {
+   "id": 4575,
+   "text": "WikiHow©"
+  },
+  {
+   "id": 4576,
+   "text": "PiGreco"
+  },
+  {
+   "id": 4577,
+   "text": "Diventare invisibile e fare scherzi sconci alle ragazze negli spogliatoi delle piscine comunali, mentre il vescovo è in visita alla struttura"
+  },
+  {
+   "id": 4578,
+   "text": "Bambole voodoo"
+  },
+  {
+   "id": 4579,
+   "text": "Farsi un piercing ai genitali con una sparachiodi"
+  },
+  {
+   "id": 4580,
+   "text": "Apparire come guest star nel nuovo video di Gemmadelsud"
+  },
+  {
+   "id": 4581,
+   "text": "Bruciare"
+  },
+  {
+   "id": 4582,
+   "text": "Acconciarsi i capelli con letame di cavallo."
+  },
+  {
+   "id": 4583,
+   "text": "Porno acrobatico"
+  },
+  {
+   "id": 4584,
+   "text": "Infilarsi un ravanello nel culo"
+  },
+  {
+   "id": 4585,
+   "text": "Tingersi il pube a righe bianche e rosa"
+  },
+  {
+   "id": 4586,
+   "text": "Sfidarsi a una gara di lancio di bocce incendiarie"
+  },
+  {
+   "id": 4587,
+   "text": "Un rutto da Coppa dei Campioni"
+  },
+  {
+   "id": 4588,
+   "text": "Mangiare teste umane"
+  },
+  {
+   "id": 4589,
+   "text": "Action Man"
+  },
+  {
+   "id": 4590,
+   "text": "Johnny Sins"
+  },
+  {
+   "id": 4591,
+   "text": "Un nuovo sistema di allungamento del pene"
+  },
+  {
+   "id": 4592,
+   "text": "Gare di rutti"
+  },
+  {
+   "id": 4593,
+   "text": "Autoerotismo"
+  },
+  {
+   "id": 4594,
+   "text": "Entrare in una chiesa urlando di essere l'Anticristo."
+  },
+  {
+   "id": 4595,
+   "text": "Tutte le conigliette di PlayBoy"
+  },
+  {
+   "id": 4596,
+   "text": "L'uomo coraggioso ama sentire la natura sulla pelle"
+  },
+  {
+   "id": 4597,
+   "text": "Un mondo di dolore!"
+  },
+  {
+   "id": 4598,
+   "text": "Fiamme torreggianti"
+  },
+  {
+   "id": 4599,
+   "text": "Uno svizzero, un francese, un tedesco e un'italiano"
+  },
+  {
+   "id": 4600,
+   "text": "EverMine"
+  },
+  {
+   "id": 4601,
+   "text": "uTorrent"
+  },
+  {
+   "id": 4602,
+   "text": "Finché c'é vita c'é speranza"
+  },
+  {
+   "id": 4603,
+   "text": "Qui e li, notte e di, questo il mondo fa girar"
+  },
+  {
+   "id": 4604,
+   "text": "Ho visto cose che voi umani non potreste immaginare..."
+  },
+  {
+   "id": 4605,
+   "text": "Patate, Riso e Cozze"
+  },
+  {
+   "id": 4606,
+   "text": "Sborra di topo"
+  },
+  {
+   "id": 4607,
+   "text": "Sonoi il conducente del treno di cacca!"
+  },
+  {
+   "id": 4608,
+   "text": "A Bangkok nel quartiere dei ladyboy."
+  },
+  {
+   "id": 4609,
+   "text": "L'uomo saggio ama usare l'ombrello quando piove!"
+  },
+  {
+   "id": 4610,
+   "text": "Voglio Godere!!!"
+  },
+  {
+   "id": 4611,
+   "text": "Ferrari FF"
+  },
+  {
+   "id": 4612,
+   "text": "Navi da combattimento in fiamme al largo dei bastioni di Orione e raggi B balenare nel buio vicino alle porte Tannhauser"
+  },
+  {
+   "id": 4613,
+   "text": "Un Tandem"
+  },
+  {
+   "id": 4614,
+   "text": "Y.0.L.O."
+  },
+  {
+   "id": 4615,
+   "text": "Un Clochard"
+  },
+  {
+   "id": 4616,
+   "text": "Supercalifragilistichespiralidoso"
+  },
+  {
+   "id": 4617,
+   "text": "La pillola del giorno dopo"
+  },
+  {
+   "id": 4618,
+   "text": "Acido Acetilsalicilico"
+  },
+  {
+   "id": 4619,
+   "text": "Vita, morte e miracoli"
+  },
+  {
+   "id": 4620,
+   "text": "I1 K2"
+  },
+  {
+   "id": 4621,
+   "text": "Drag queen"
+  },
+  {
+   "id": 4622,
+   "text": "Il gatto di schrödinger"
+  },
+  {
+   "id": 4623,
+   "text": "Uno alla testa ed uno al cuore"
+  },
+  {
+   "id": 4624,
+   "text": "Al mio via scatenate l'inferno!"
+  },
+  {
+   "id": 4625,
+   "text": "La Sirenetta di Copenaghen"
+  },
+  {
+   "id": 4626,
+   "text": "Il Jolly Roger"
+  },
+  {
+   "id": 4627,
+   "text": "Pisciando sulle gambe del mio vicino"
+  },
+  {
+   "id": 4628,
+   "text": "Cannone alla scoreggia di cane"
+  },
+  {
+   "id": 4629,
+   "text": "L'aiuto del pubblico"
+  },
+  {
+   "id": 4630,
+   "text": "Tre Metri Sopra il Cielo"
+  },
+  {
+   "id": 4631,
+   "text": "Film Bielorusso"
+  },
+  {
+   "id": 4632,
+   "text": "L'ennesima canzone neomelodica napoletana"
+  },
+  {
+   "id": 4633,
+   "text": "Matitina IKEA"
+  },
+  {
+   "id": 4634,
+   "text": "Fughe di gas"
+  },
+  {
+   "id": 4635,
+   "text": "Adolescenti arrapati"
+  },
+  {
+   "id": 4636,
+   "text": "Il Colonnello Giuliacci"
+  },
+  {
+   "id": 4637,
+   "text": "Jessica Fletcher"
+  },
+  {
+   "id": 4638,
+   "text": "Evadere il canone RAI"
+  },
+  {
+   "id": 4639,
+   "text": "Bombardamenti indiscriminati"
+  },
+  {
+   "id": 4640,
+   "text": "Mirabolanti cadute da tacco 12"
+  },
+  {
+   "id": 4641,
+   "text": "Dieta mediterranea"
+  },
+  {
+   "id": 4642,
+   "text": "Alice nel Paese delle Pornomeraviglie"
+  },
+  {
+   "id": 4643,
+   "text": "Reggere la candela"
+  },
+  {
+   "id": 4644,
+   "text": "Milf estremamente espansive"
+  },
+  {
+   "id": 4645,
+   "text": "PornHub"
+  },
+  {
+   "id": 4646,
+   "text": "Stalin"
+  },
+  {
+   "id": 4647,
+   "text": "Rileggere il Mein Kampf"
+  },
+  {
+   "id": 4648,
+   "text": "Riformare l'URSS"
+  },
+  {
+   "id": 4649,
+   "text": "Sindrome di Down"
+  },
+  {
+   "id": 4650,
+   "text": "Immigrati clandestini"
+  },
+  {
+   "id": 4651,
+   "text": "Usare poco lubrificante"
+  },
+  {
+   "id": 4652,
+   "text": "Un travestito"
+  },
+  {
+   "id": 4653,
+   "text": "PornoStar con desideri sessuali per il proprio padre"
+  },
+  {
+   "id": 4654,
+   "text": "Ascelle puzzolenti"
+  },
+  {
+   "id": 4655,
+   "text": "Un seno cosi floscio che le arriva alle ginocchia"
+  },
+  {
+   "id": 4656,
+   "text": "Skylar Vox"
+  },
+  {
+   "id": 4657,
+   "text": "Una Death Race tra sedie a rotelle"
+  },
+  {
+   "id": 4658,
+   "text": "Er faina"
+  },
+  {
+   "id": 4659,
+   "text": "Cowboy gay che mangiano budino"
+  },
+  {
+   "id": 4660,
+   "text": "Un ninja con una diarrea incontrollabile"
+  },
+  {
+   "id": 4661,
+   "text": "Cercatore d'oro"
+  },
+  {
+   "id": 4662,
+   "text": "Un aborto fallito"
+  },
+  {
+   "id": 4663,
+   "text": "Masturbarsi con due banane"
+  },
+  {
+   "id": 4664,
+   "text": "Un dito in culo"
+  },
+  {
+   "id": 4665,
+   "text": "Due dita in culo"
+  },
+  {
+   "id": 4666,
+   "text": "Tre dita in culo"
+  },
+  {
+   "id": 4667,
+   "text": "Un culo grasso in pantaloni da yoga"
+  },
+  {
+   "id": 4668,
+   "text": "Scrivere un sms alla propria EX mentre si è ubriachi di vodka"
+  },
+  {
+   "id": 4669,
+   "text": "Realizzare che è finita la carta igienica quando ormai è troppo tardi"
+  },
+  {
+   "id": 4670,
+   "text": "Una tana di tigri del bengala affamate"
+  },
+  {
+   "id": 4671,
+   "text": "Botulino"
+  },
+  {
+   "id": 4672,
+   "text": "Schiavitu"
+  },
+  {
+   "id": 4673,
+   "text": "Feci spalmate sulla parete del bagno"
+  },
+  {
+   "id": 4674,
+   "text": "Macchie non identificabili sulla punta del pene"
+  },
+  {
+   "id": 4675,
+   "text": "Anoressia"
+  },
+  {
+   "id": 4676,
+   "text": "Spada Laser"
+  },
+  {
+   "id": 4677,
+   "text": "Guardare un porno in pubblico sull'iPad® a tutto volume"
+  },
+  {
+   "id": 4678,
+   "text": "Capelli nello scarico della doccia"
+  },
+  {
+   "id": 4679,
+   "text": "Lupus"
+  },
+  {
+   "id": 4680,
+   "text": "Allergia ai preservativi"
+  },
+  {
+   "id": 4681,
+   "text": "Facebook®"
+  },
+  {
+   "id": 4682,
+   "text": "Boomer"
+  },
+  {
+   "id": 4683,
+   "text": "Doctor House"
+  },
+  {
+   "id": 4684,
+   "text": "Pirati inesperti"
+  },
+  {
+   "id": 4685,
+   "text": "Capezzoli a forma di cuore"
+  },
+  {
+   "id": 4686,
+   "text": "RTL 102.5"
+  },
+  {
+   "id": 4687,
+   "text": "Dolore da emorroidi"
+  },
+  {
+   "id": 4688,
+   "text": "Lavoro sottopagato"
+  },
+  {
+   "id": 4689,
+   "text": "Abbattere il capitalismo"
+  },
+  {
+   "id": 4690,
+   "text": "Re Sole"
+  },
+  {
+   "id": 4691,
+   "text": "Test di gravidanza"
+  },
+  {
+   "id": 4692,
+   "text": "Hentai"
+  },
+  {
+   "id": 4693,
+   "text": "Necromanzia"
+  },
+  {
+   "id": 4694,
+   "text": "Traffico d'organi"
+  },
+  {
+   "id": 4695,
+   "text": "La mamma di Bambi... morta"
+  },
+  {
+   "id": 4696,
+   "text": "Riportare in vita i morti"
+  },
+  {
+   "id": 4697,
+   "text": "Vendere organi umani a basso costo e con scarse garanzie igieniche"
+  },
+  {
+   "id": 4698,
+   "text": "Un negro di origine asiatica"
+  },
+  {
+   "id": 4699,
+   "text": "Massaggiatrici cinesi molto esperte"
+  },
+  {
+   "id": 4700,
+   "text": "Epatite C contratta mangiando cozze crude"
+  },
+  {
+   "id": 4701,
+   "text": "Simpa"
+  },
+  {
+   "id": 4702,
+   "text": "Master"
+  },
+  {
+   "id": 4703,
+   "text": "Sango"
+  },
+  {
+   "id": 4704,
+   "text": "Cla"
+  },
+  {
+   "id": 4705,
+   "text": "Emma"
+  },
+  {
+   "id": 4706,
+   "text": "Mantide"
+  },
+  {
+   "id": 4707,
+   "text": "Manu"
+  },
+  {
+   "id": 4708,
+   "text": "Angi"
+  },
+  {
+   "id": 4709,
+   "text": "Step"
+  },
+  {
+   "id": 4710,
+   "text": "Lenti a contatto a raggi X"
+  },
+  {
+   "id": 4711,
+   "text": "Un pappagallo che dice cose sconce"
+  },
+  {
+   "id": 4712,
+   "text": "Un superdotato"
+  },
+  {
+   "id": 4713,
+   "text": "Un palestrato con micropene"
+  },
+  {
+   "id": 4714,
+   "text": "Ridere a crepapelle per nascondere una sonora puzza"
+  },
+  {
+   "id": 4715,
+   "text": "Animali domesti guardoni"
+  },
+  {
+   "id": 4716,
+   "text": "L'uomo tigre"
+  },
+  {
+   "id": 4717,
+   "text": "Un hippie che si è appena fatto di LSD"
+  },
+  {
+   "id": 4718,
+   "text": "Palpatina furtiva"
+  },
+  {
+   "id": 4719,
+   "text": "Gattini ninja"
+  },
+  {
+   "id": 4720,
+   "text": "Una canna"
+  },
+  {
+   "id": 4721,
+   "text": "Bicicletta senza sellino"
+  },
+  {
+   "id": 4722,
+   "text": "Orsi polari che ballano il dadaumpa"
+  },
+  {
+   "id": 4723,
+   "text": "Crisi di mezza età"
+  },
+  {
+   "id": 4724,
+   "text": "Primo bacio con l'alito di aglio"
+  },
+  {
+   "id": 4725,
+   "text": "Pensare di stare per saltare su un bel tronco e finire in una merda di vacca"
+  }
+ ]
+}

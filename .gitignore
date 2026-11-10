@@ -10,3 +10,4 @@ src/main/java/net/socialgamer/cah/util/RealShadowBannedStringProvider.java
 data/
 secrets/
 !docker/build.properties
+private/
